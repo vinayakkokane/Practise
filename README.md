@@ -1,3 +1,3 @@
 # Practise
 Data Structure and Algorithms in Java, 
-Python Basics
+Python, JavaScript Basics
